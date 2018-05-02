@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="search_input_text">Kişi Ara</string>
+    <string name="any_card_info_title_text">Hiç kayıt Yok</string>
+    <string name="any_card_info_description_text">Dilerseniz Sağ üst taraftan kayıt ekleyebilirsiniz</string>
+
+    <string name="choose_photo_text">Fotoğraf Seç</string>
+    <string name="file_not_found_text">Dosya Bulunamadı</string>
+    <string name="fullname_hint_text">Ad Soyad</string>
+    <string name="phone_hint_text">Telefon</string>
+    <string name="email_hint_text">E-Posta</string>
+    <string name="company_hint_text">Şirket</string>
+    <string name="job_hint_text">Meslek</string>
+    <string name="map_search_adress_hint_text">Adres Ara</string>
+    <string name="location_hint_text">Konum</string>
+    <string name="button_save_person_text">Kaydet</string>
+    <string name="save_successfully_text">Başarıyla kaydedildi</string>
+
+    <string name="map_dialog_title_text">Google Map</string>
+    <string name="map_dialog_message_text">Lütfen geçerli bir yer seçiniz</string>
+    <string name="map_dialog_close_text">Kapat</string>
+
+    <string name="btn_delete_person_text">Kaydı Sil</string>
+    <string name="dialog_content_text">Silmek istediğinizden emin misiniz ?</string>
+    <string name="dialog_positive_text">Evet</string>
+    <string name="dialog_negative_text">Hayır</string>
+    <string name="deleted_successfully">Kayıt başarıyla silindi</string>
+</resources>
